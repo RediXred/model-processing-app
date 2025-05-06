@@ -40,7 +40,7 @@
 
 ## Конфигурация
 
-Приложение настраивается через класс `AppConfiguration` в `src/config/configuration.py`. Настройку можно выполнить следующим образом:
+Приложение настраивается через класс `AppConfiguration` в `src/config/AppConfiguration.py`. Настройку можно выполнить следующим образом:
 
 1. **Изменение `main.py`**:
    Обновите экземпляр `AppConfiguration` в `main.py`:
